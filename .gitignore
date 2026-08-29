@@ -1,0 +1,22 @@
+# Dataset
+train/
+valid/
+test/
+
+# Dataset files
+*.csv
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
