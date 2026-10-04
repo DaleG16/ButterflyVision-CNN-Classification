@@ -122,8 +122,8 @@ ButterflyVision/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-link>
-cd ButterflyVision
+git clone <repository-link>
+cd ButterflyVision-CNN-Classification
 ```
 
 ### 2. Install Dependencies
